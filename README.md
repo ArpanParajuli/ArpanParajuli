@@ -23,9 +23,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who enjoys building
 ### 📱 Android Reversing Engineering
 ![IDA Pro](https://img.shields.io/badge/IDA--Pro-2E2E2E?style=flat&logoColor=white)  
 ![Frida](https://img.shields.io/badge/Frida-EB4C60?style=flat&logo=frida&logoColor=white)  
-![Ghidra](https://img.shields.io/badge/Ghidra-BB0000?style=flat&logoColor=white)  
 ![ADB](https://img.shields.io/badge/ADB-333333?style=flat&logo=android&logoColor=white)  
-![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white)
+
 ---
 
 ### 🔭 I’m currently working on
